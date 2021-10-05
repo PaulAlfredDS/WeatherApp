@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="limitations_request">Due to the Api\'s free plan limitations, users can only
+    check less than 108 hours in the future.</string>
+</resources>
